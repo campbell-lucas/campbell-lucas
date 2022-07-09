@@ -1,4 +1,4 @@
-### Hello World
+### Hi! :)
 I am an up and coming fullstack software engineer from New Zealand. Studying how to code in Python.
 <br>
 ## Connect with me
