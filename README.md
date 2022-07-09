@@ -1,6 +1,5 @@
 ### Hello World
 I am an up and coming fullstack software engineer from New Zealand. Studying how to code in Python.
-- Learning design patterns in depth
 <br>
 ## Connect with me
 
