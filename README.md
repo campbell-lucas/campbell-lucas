@@ -9,3 +9,6 @@ I am an up and coming fullstack software engineer from New Zealand. Studying how
 
 <img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="python" src="https://camo.githubusercontent.com/cc498548db376c421cdb164e2480f2a88f0625329356cbb6510f15cab7a73337/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666c6174266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534" /><img align="left" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
 <br>
+## Focused to learn
+
+<img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
