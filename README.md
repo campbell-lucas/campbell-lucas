@@ -7,5 +7,5 @@ I am an up and coming fullstack software engineer from New Zealand. Studying how
 <br>
 ## Expertise
 
-<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" alt="medium" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" /><img align="left" alt="python" src=
 <br>
