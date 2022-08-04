@@ -12,9 +12,3 @@ I am an up and coming software engineer from New Zealand living in Warsaw, Polan
 ## Focused on learning
 
 <img align="left" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><img align="left" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" /><img align="left" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-
-
-
-
-[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=campbell-lucas)](https://github.com/anuraghazra/github-readme-stats)
