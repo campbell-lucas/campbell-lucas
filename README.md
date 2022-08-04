@@ -15,4 +15,4 @@ I am an up and coming software engineer from New Zealand living in Warsaw, Polan
 <br>
 ## Stats
 
-[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=campbell-lucas&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=campbell-lucas&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
