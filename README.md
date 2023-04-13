@@ -1,5 +1,5 @@
 ### Hi! 😃
-I am a software engineer in the making from New Zealand living in Warsaw, Poland. Studying how to code in Python 🐍
+I am a software engineer in the making from New Zealand. Studying how to code in Python 🐍
 <br>
 ## Connect with me
 
