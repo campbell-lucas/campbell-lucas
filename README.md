@@ -1,5 +1,5 @@
 ### Hi! 😃
-I am a software engineer in the making from New Zealand. Studying how to code in Python 🐍
+I am an IT Systems Engineer from New Zealand. Currently learning Python.
 <br>
 ## Connect with me
 
